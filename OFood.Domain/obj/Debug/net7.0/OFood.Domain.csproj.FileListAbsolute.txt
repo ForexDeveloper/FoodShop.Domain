@@ -1,0 +1,12 @@
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\bin\Debug\net7.0\OFood.Domain.deps.json
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\bin\Debug\net7.0\OFood.Domain.dll
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\bin\Debug\net7.0\OFood.Domain.pdb
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.csproj.AssemblyReference.cache
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.AssemblyInfoInputs.cache
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.AssemblyInfo.cs
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.dll
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\refint\OFood.Domain.dll
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\OFood.Domain.pdb
+C:\Users\JavidPour.Mohammad\Desktop\OFood.Shop\OFood.Domain\OFood.Domain\obj\Debug\net7.0\ref\OFood.Domain.dll

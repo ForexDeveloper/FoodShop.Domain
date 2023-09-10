@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WDbYfeVDxxat6sbMW500VEj566VmNoiJXRuj2UdCpQiT4l4YGPwsO0jhEbvsxw1udT1+zu284dSvrV02IpWw+A==",
+  "dgSpecHash": "jJtxKlDhVc8n8o+Uubq/yTfxTfqrmFp4mjV1qzxEdRh5PMjFxvVcsFItiVR5SUguV8X82NmxgG167G4BFjtU+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JavidPour.Mohammad\\Desktop\\FoodShop.Domain\\OFood.Domain\\OFood.Domain.csproj",
+  "projectFilePath": "C:\\Users\\JavidPour.Mohammad\\Desktop\\OFood.Shop\\OFood.Domain\\OFood.Domain\\OFood.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

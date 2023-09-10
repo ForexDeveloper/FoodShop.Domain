@@ -13,13 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JavidPour.Mohammad\\Desktop\\FoodShop.Domain\\OFood.Domain\\OFood.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\JavidPour.Mohammad\\Desktop\\OFood.Shop\\OFood.Domain\\OFood.Domain\\OFood.Domain.csproj",
       "projectName": "OFood.Domain",
-      "projectPath": "C:\\Users\\JavidPour.Mohammad\\Desktop\\FoodShop.Domain\\OFood.Domain\\OFood.Domain.csproj",
+      "projectPath": "C:\\Users\\JavidPour.Mohammad\\Desktop\\OFood.Shop\\OFood.Domain\\OFood.Domain\\OFood.Domain.csproj",
       "packagesPath": "C:\\Users\\JavidPour.Mohammad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JavidPour.Mohammad\\Desktop\\FoodShop.Domain\\OFood.Domain\\obj\\",
+      "outputPath": "C:\\Users\\JavidPour.Mohammad\\Desktop\\OFood.Shop\\OFood.Domain\\OFood.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "C:\\Users\\JavidPour.Mohammad\\Desktop\\OFood.Shop\\NuGet.Config",
         "C:\\Users\\JavidPour.Mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
